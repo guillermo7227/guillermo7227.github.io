@@ -6,7 +6,7 @@
 
 El fin con el que hemos creado este proyecto, es de beneficiar a muchas familias en todo el mundo a través de las ganancias que obtengan por la valorización del token y por las ganancias  del juego al ser becados💰🤑🥳
 
-🎯La moneda recien salió a la venta y sin embargo ya entregamos 3 Becas y estaremos haciendo dinámicas para entregar muchas más 😃🥳🎮🤑
+🎯La moneda recien salió a la venta y sin embargo ya entregamos 4 Becas y estaremos haciendo dinámicas para entregar muchas más 😃🥳🎮🤑
 
 
 
@@ -31,31 +31,33 @@ Si eres completamente nuevo al mundo de los juegos y monedas Cripto, no te preoc
 
 ## 1. ¿Qué son las criptomonedas?
 
-Una criptomoneda es un activo digital que emplea un cifrado criptográfico para garantizar su titularidad, asegurar la integridad de las transacciones, y controlar la creación de unidades adicionales, es decir, evitar que alguien pueda hacer copias como haríamos, por ejemplo, con una foto. Estas monedas no existen de forma física: se almacenan en una cartera digital.
+Una criptomoneda es un activo digital cifrado para garantizar su titularidad, asegurar la integridad de las transacciones, y evitar que alguien pueda hacer copias como haríamos, por ejemplo, con una foto. Estas monedas no existen de forma física: se almacenan en una cartera digital.
 
-Las criptomonedas se pueden intercambiar por bienes y/o servicios dentro de las cadenas de bloques, que son bases de datos donde se registrasn las transacciones. AXIƎ TOKEN opera en una cadena de bloques llamada Ethereum.
+Las criptomonedas se pueden intercambiar por bienes y/o servicios dentro de las cadenas de bloques, que son bases de datos donde se registran todas las transacciones. AXIƎ TOKEN opera en una cadena de bloques llamada Binance Smart Chain (BSC).
 
-Actualmente hay muchas posibilidades de generar ingresos con las criptomonedas y en el 2021 se vio el boom de los juegos basados en criptos, juegos que te permiten ganar dinero mientras los juegas. Axie Infinity es el juego mas popular en esta categoría y en nuestra comunidad aprenderás a jugar y a ganar mucho dinero jugando 💲💲.
+Actualmente hay muchas posibilidades de generar ingresos con las criptomonedas y en el 2021 se vio el boom de los juegos basados en cadenas de bloques, juegos que te permiten ganar dinero mientras los juegas. Axie Infinity es el juego mas popular en esta categoría y en nuestra comunidad aprenderás a jugar y a ganar mucho dinero mientras lo juegas 💲💲.
 
 
 ## 2. ¿Cómo compro criptomonedas en Binance?
 
 Necesitas tener la moneda BNB para poder comprar AXIƎ TOKEN y participar para ganarte becas Axie Infinity con nosotros.
 
-Para comprar BNB de una forma segura necesitarás una cuenta en Binance.com. Binance es una de los exchanges más populares y seguros en la actualidad. 
+Para comprar BNB de una forma segura necesitarás una cuenta en Binance. Binance es una de los exchanges más populares y seguros en la actualidad. 
 
 ### Pasos para comprar BNB
 
 1. Regístrate en Binance [dando click aquí y siguiendo los pasos indicados](https://accounts.binance.com/en/register?ref=185370542)
-2. Usa la función de Comprar Cripto de Binance. Puedes pagar con tarjeta de crédito o comprar por consignación bancaria con la opción P2P
+2. Una vez registrado, usa la función de Comprar Cripto. Puedes pagar con tarjeta de crédito o comprar por consignación bancaria con la opción P2P
 
 ![image](https://user-images.githubusercontent.com/4061845/128243526-d801a29c-352e-4626-b143-4285977094f2.png)
+
+Puedes ver con mas detalle el proceso de compra con tarjeta de crédito en [este video](https://www.youtube.com/watch?v=_thgH56hr0U). NOTA: El autor del video compra Bitcoins con moneda peruana, pero tu debes cambiar la moneda que vas a comprar a BNB y pagar con tu moneda local.
 
 
 
 ## 3. ¿Qué es una billetera cripto?
 
-Una vez tenga BNB en Binance, puedes transferir esos BNB a tu billetera digital para poder comprar AXIƎ TOKEN. Las billeteras digitales guardan tus criptos y sirven para convertir de una moneda a otra (comprar y vender cripto con cripto).
+Una vez tengas BNB en Binance, puedes transferir esos BNB a tu billetera digital para poder comprar AXIƎ TOKEN. Las billeteras digitales guardan tus criptos y sirven para convertir de una moneda a otra (comprar y vender cripto con cripto).
 
 La billetera digital mas popular es Metamask y puedes instalarla fácilmente en tu navegador o en tu celular. Sigue [estas instrucciones](https://www.youtube.com/watch?v=1GPKs8XbGbc) para instalar y tener tu billetera Metamask en 5 minutos (estos pasos aplican para la extensión de Google Chrome y para la app de celulares).
 
