@@ -85,7 +85,7 @@ Para transferir tus BNB de Binance a Metamask y poder comprar AXIƎ TOKEN, sigue
 
 
 
-## 6. ¿Cómo compro AXIƎ TOKEN?
+## 6. <a name="6-cómo-compro-axie-token">¿Cómo compro AXIƎ TOKEN?
 
 ¡Felicidades! Ya tienes tus BNB para comprar AXIƎ TOKEN y empezar a participar por becas Axie Infinity. Ahora debes comprar tus AXIƎ TOKEN y holdearlos con manos de diamante!
 
@@ -97,7 +97,7 @@ Conecta tu billetera dando click en "Unlock Wallet", escribe la cantidad de BNB 
 
 
 
-## 7. ¿Cómo puedo ganar dinero con AXIƎ TOKEN?
+## 7. <a name="7-cómo-puedo-ganar-dinero-con-axie-token">¿Cómo puedo ganar dinero con AXIƎ TOKEN?
 
 Estaremos sorteando becas Axie Infinity en nuestro grupo de Telegram mediante dinámicas sencillas, así que está atento al grupo de Telegram porque puedes ser tu el próximo ganador. 
 
