@@ -26,7 +26,7 @@ Si eres completamente nuevo al mundo de los juegos y monedas Cripto, no te preoc
 * [¿Qué es la Binance Smart Chain (BSC)?](#4-qué-es-la-binance-smart-chain-bsc)
 * [¿Cómo envío mis BNB de Binance a Metamask?](#5-cómo-envío-mis-bnb-de-binance-a-metamask)
 * [¿Cómo compro AXI3 TOKEN?](#6-cómo-compro-axi3-token)
-* [¿Cómo puedo ganar dinero con AXI3 TOKEN?](#7-cómo-puedo-ganar-dinero-con-axi3-token)
+* [¿Cómo puedo ganar dinero con AXI3 TOKEN?](#7-cómo-puedo-ganar-dinero-con-axie-token)
 
 
 ## 1. ¿Qué son las criptomonedas?
@@ -97,15 +97,15 @@ Conecta tu billetera dando click en "Unlock Wallet", escribe la cantidad de BNB 
 
 
 
-## 7. ¿Cómo puedo ganar dinero con AXI3 TOKEN?
+## 7. ¿Cómo puedo ganar dinero con AXIƎ TOKEN?
 
 Estaremos sorteando becas Axie Infinity en nuestro grupo de Telegram mediante dinámicas sencillas, así que está atento al grupo de Telegram porque puedes ser tu el próximo ganador. 
 
 Para ganar dinero debes jugar Axie Infinity con la cuenta que te daremos, hacer tu puntaje diario y así estarás generando ingresos en la moneda de Axie Infinity. Periódicamente transferiremos tus ganancias a tu cartera digital para que dispongas de ellas como quieras! Puedes moverlas en el mundo cripto o puedes retirarlas mediante Binance a tus bolsillos físicos (en USD, COP, BS o tu moneda local).
 
-### Otra forma de ganar dinero con AXI3 TOKEN
+### Otra forma de ganar dinero con AXIƎ TOKEN
 
-A parte de las becas Axie Infinity, puedes ganar dinero holdeando nuestra moneda. Nuestra moneda está diseñada para ganar valor con el tiempo y ¡con la ayuda de nuestra comunidad así sera! Solo debes asegurarte de holdear tus monedas (no venderlas) y crecerán en valor conforme nuestra comunidad se vaya haciendo mas grande. Esto quiere decir que si compraste hoy 100 AXI3 TOKEN por 0.5 BNB, dentro de unas semanas o meses, esos 100 AXI3 TOKEN pueden valer 1 BNB o más!! Está atento al grupo de Telegram para estar informado de todo lo que pasa en el proyecto.
+A parte de las becas Axie Infinity, puedes ganar dinero holdeando nuestra moneda. Nuestra moneda está diseñada para ganar valor con el tiempo y ¡con la ayuda de nuestra comunidad así sera! Solo debes asegurarte de holdear tus monedas (no venderlas) y crecerán en valor conforme nuestra comunidad se vaya haciendo mas grande. Esto quiere decir que si compraste hoy 100 AXIƎ TOKEN por 0.5 BNB, dentro de unas semanas o meses, esos 100 AXIƎ TOKEN pueden valer 1 BNB o más!! Está atento al grupo de Telegram para estar informado de todo lo que pasa en el proyecto.
 
 ¡Esperamos que disfrutes la comunidad y que generes muchos ingresos 💰💰 de manera fácil y divertida jugando Axie Infinity! 
 
