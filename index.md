@@ -21,12 +21,12 @@ Si eres completamente nuevo al mundo de los juegos y monedas Cripto, no te preoc
 ## Contenido
 
 * [¿Que son las criptomonedas?](#1-que-son-las-criptomonedas)
-* [¿Cómo compro criptomonedas en Binance?](#2-Cómo-compro-criptomonedas-en-Binance)
-* [¿Qué es una billetera cripto?](#3-Qué-es-una-billetera-cripto)
-* [¿Que es la Binance Smart Chain (BSC)?](#4-Que-es-la-Binance-Smart-Chain-BSC)
-* [¿Cómo envío mis BNB de Binance a Metamask?](#5-Cómo-envío-mis-BNB-de-Binance-a-Metamask)
-* [¿Cómo compro AXI3 TOKEN?](#6-Cómo-compro-AXI3-TOKEN)
-* [¿Cómo puedo ganar dinero con AXI3 TOKEN?](#7-Cómo-puedo-ganar-dinero-con-AXI3-TOKEN)
+* [¿Cómo compro criptomonedas en Binance?](#2-Como-compro-criptomonedas-en-Binance)
+* [¿Qué es una billetera cripto?](#3-que-es-una-billetera-cripto)
+* [¿Que es la Binance Smart Chain (BSC)?](#4-que-es-la-binance-smart-chain-bsc)
+* [¿Cómo envío mis BNB de Binance a Metamask?](#5-como-envio-mis-bnb-de-binance-a-metamask)
+* [¿Cómo compro AXI3 TOKEN?](#6-como-compro-axi3-token)
+* [¿Cómo puedo ganar dinero con AXI3 TOKEN?](#7-como-puedo-ganar-dinero-con-axie-token)
 
 
 ## 1. ¿Que son las criptomonedas?
