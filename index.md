@@ -21,12 +21,12 @@ Si eres completamente nuevo al mundo de los juegos y monedas Cripto, no te preoc
 ## Contenido
 
 * [¿Que son las criptomonedas?](#1-que-son-las-criptomonedas)
-* ¿Cómo compro criptomonedas en Binance?
-* ¿Qué es una billetera cripto?
-* ¿Que es la Binance Smart Chain (BSC)?
-* ¿Cómo envío mis BNB de Binance a Metamask?
-* ¿Cómo compro AXI3 TOKEN?
-* ¿Cómo puedo ganar dinero con AXI3 TOKEN?
+* [¿Cómo compro criptomonedas en Binance?](#2-Cómo-compro-criptomonedas-en-Binance)
+* [¿Qué es una billetera cripto?](#3-Qué-es-una-billetera-cripto)
+* [¿Que es la Binance Smart Chain (BSC)?](#4-Que-es-la-Binance-Smart-Chain-BSC)
+* [¿Cómo envío mis BNB de Binance a Metamask?](#5-Cómo-envío-mis-BNB-de-Binance-a-Metamask)
+* [¿Cómo compro AXI3 TOKEN?](#6-Cómo-compro-AXI3-TOKEN)
+* [¿Cómo puedo ganar dinero con AXI3 TOKEN?](#7-Cómo-puedo-ganar-dinero-con-AXI3-TOKEN)
 
 
 ## 1. ¿Que son las criptomonedas?
@@ -108,6 +108,10 @@ Estaremos sorteando becas Axie Infinity en nuestro grupo de Telegram mediante di
 
 Para ganar dinero debes jugar Axie Infinity con la cuenta que te daremos, hacer tu puntaje diario y así estarás generando ingresos en la moneda de Axie Infinity. Periódicamente transferiremos tus ganancia a tu cartera digital para que dispongas de ellas como quieras! Puedes moverlas en el mundo cripto o puedes retirarlas mediante Binance a tus bolsillos físicos (en USD, COP, BS o tu moneda local).
 
-¡Esperamos que disfrutes la comunidad y que generes muchos ingresos 💰💰 de manera fácil y divertida! 
+### Otra forma de ganar dinero con AXI3 TOKEN
+
+A parte de las becas Axie Infinity, puedes ganar dinero holdeando nuestra moneda. Nuestra moneda está diseñada para ganar valor con el tiempo y ¡con la ayuda de nuestra comunidad así sera! Solo debes comprar y holdear tus monedas y crecerán en valor conforme nuestra comunidad se vaya haciendo mas grande. Esto quiere decir que si compraste hoy 100 AXI3 TOKEN por 0.5 BNB, dentro de unas semanas o meses, esos 100 AXI3 TOKEN pueden valer 1 BNB o más!! Está atento al grupo de Telegram para estar informado de todo lo que pasa en el proyecto.
+
+¡Esperamos que disfrutes la comunidad y que generes muchos ingresos 💰💰 de manera fácil y divertida jugando Axie Infinity! 
 
 **Equipo AXIƎ TOKEN**
