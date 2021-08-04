@@ -12,9 +12,9 @@ El fin con el que hemos creado este proyecto, es de beneficiar a muchas familias
 
 ## ¿Cómo puedo obtener una beca Axie Infinity?
 
-Esencialmente, podrás ganar una beca siguiendo nuestras redes sociales y holdeando moneda AXIƎ TOKEN. Holdear quiere decir que compras nuestra moneda y no la vendes al mercado sino que la sostienes en tu cartera cripto.
+Esencialmente, podrás ganar una beca siguiendo nuestras redes sociales y holdeando monedas AXIƎ TOKEN. Holdear quiere decir que compras nuestra moneda y no la vendes al mercado sino que la sostienes en tu cartera cripto.
 
-Si eres completamente nuevo al mundo de los juegos y monedas Cripto, no te preocupes! sigue leyendo y comprenderás todo lo que necesitas saber para generar ingresos jugando!
+Si eres completamente nuevo al mundo de los juegos y monedas Cripto, no te preocupes! sigue leyendo y comprenderás todo lo que necesitas saber para generar ingresos jugando Axie Infinity!
 
 
 
@@ -31,18 +31,11 @@ Si eres completamente nuevo al mundo de los juegos y monedas Cripto, no te preoc
 
 ## 1. ¿Qué son las criptomonedas?
 
-Una criptomoneda es un activo digital que emplea un cifrado criptográfico para garantizar su titularidad y asegurar la integridad de las transacciones, y controlar la creación de unidades adicionales, es decir, evitar que alguien pueda hacer copias como haríamos, por ejemplo, con una foto. Estas monedas no existen de forma física: se almacenan en una cartera digital.
+Una criptomoneda es un activo digital que emplea un cifrado criptográfico para garantizar su titularidad, asegurar la integridad de las transacciones, y controlar la creación de unidades adicionales, es decir, evitar que alguien pueda hacer copias como haríamos, por ejemplo, con una foto. Estas monedas no existen de forma física: se almacenan en una cartera digital.
 
-### ¿Cómo funcionan las criptomonedas?
+Las criptomonedas se pueden intercambiar por bienes y/o servicios dentro de las cadenas de bloques, que son bases de datos donde se registrasn las transacciones. AXIƎ TOKEN opera en una cadena de bloques llamada Ethereum.
 
-Las criptomonedas cuentan con diversas características diferenciadoras respecto a los sistemas tradicionales: no están reguladas ni controladas por ninguna institución y no requieren de intermediaros en las transacciones. Se usa una base de datos descentralizada, blockchain o registro contable compartido, para el control de estas transacciones.
-
-Al hilo de la regulación, las criptomonedas no tienen la consideración de medio de pago, no cuentan con el respaldo de un banco central u otras autoridades públicas y no están cubiertas por mecanismos de protección al cliente como el Fondo de Garantía de Depósitos o el Fondo de Garantía de Inversores.
-
-En cuanto a la operativa de estas monedas digitales, es muy importante recordar que una vez que se realiza la transacción con criptomonedas, es decir, cuando se compra o vende el activo digital, no es posible cancelar la operación porque el blockchain es un registro que no permite borrar datos. Para “revertir” una transacción es necesario ejecutar la contraria.
-
-Ya que estas monedas no están disponibles de forma física, hay que recurrir a un servicio de monedero digital de criptomonedas. 
-
+Actualmente hay muchas posibilidades de generar ingresos con las criptomonedas y en el 2021 se vio el boom de los juegos basados en criptos, juegos que te permiten ganar dinero mientras los juegas. Axie Infinity es el juego mas popular en esta categoría y en nuestra comunidad aprenderás a jugar y a ganar mucho dinero jugando 💲💲.
 
 
 ## 2. ¿Cómo compro criptomonedas en Binance?
@@ -76,7 +69,7 @@ Ve a [Chainlist.org](https://chainlist.org) (ábrelo en otra pestaña)
 
 1. Conecta tu wallet
 2. Busca BSC
-3. Da click en Add To Metamask en la que aparece señalada en la imagen
+3. Da click en Add To Metamask en el cuadro que aparece señalada en la imagen en azul claro
 
 ![image](https://user-images.githubusercontent.com/4061845/128245977-17dde951-d5da-4a03-a59f-f59cff6a8834.png)
 
@@ -98,19 +91,19 @@ Para comprar AXIƎ TOKEN ve a PancakeSwap usando [este enlace](https://exchange.
 
 ![image](https://user-images.githubusercontent.com/4061845/128248391-1e975ab2-a7ac-46bd-b0e5-672ed7b782b8.png)
 
-Conecta tu bolletera dando click en "Unlock Wallet", escribe la cantidad de BNB que deseas intercambiar por AXIƎ TOKEN (mínimo 0.05 BNB para participar por las becas). Luego da click en "Swap", confirma las transacciones y ¡listo! ya tienes tus AXIƎ TOKEN y estás listo para empezar a participar por las becas Axie Infinity.
+Conecta tu billetera dando click en "Unlock Wallet", escribe la cantidad de BNB que deseas intercambiar por AXIƎ TOKEN (mínimo 0.05 BNB para participar por las becas). Luego da click en "Swap", confirma las transacciones y ¡listo! ya tienes tus AXIƎ TOKEN y estás listo para empezar a participar por las becas Axie Infinity.
 
 
 
 ## 7. ¿Cómo puedo ganar dinero con AXI3 TOKEN?
 
-Estaremos sorteando becas Axie Infinity en nuestro grupo de Telegram mediante dinámicas sencillas, así que está atento al grupo de Telegam porque puedes ser tu el próximo ganador. 
+Estaremos sorteando becas Axie Infinity en nuestro grupo de Telegram mediante dinámicas sencillas, así que está atento al grupo de Telegram porque puedes ser tu el próximo ganador. 
 
-Para ganar dinero debes jugar Axie Infinity con la cuenta que te daremos, hacer tu puntaje diario y así estarás generando ingresos en la moneda de Axie Infinity. Periódicamente transferiremos tus ganancia a tu cartera digital para que dispongas de ellas como quieras! Puedes moverlas en el mundo cripto o puedes retirarlas mediante Binance a tus bolsillos físicos (en USD, COP, BS o tu moneda local).
+Para ganar dinero debes jugar Axie Infinity con la cuenta que te daremos, hacer tu puntaje diario y así estarás generando ingresos en la moneda de Axie Infinity. Periódicamente transferiremos tus ganancias a tu cartera digital para que dispongas de ellas como quieras! Puedes moverlas en el mundo cripto o puedes retirarlas mediante Binance a tus bolsillos físicos (en USD, COP, BS o tu moneda local).
 
 ### Otra forma de ganar dinero con AXI3 TOKEN
 
-A parte de las becas Axie Infinity, puedes ganar dinero holdeando nuestra moneda. Nuestra moneda está diseñada para ganar valor con el tiempo y ¡con la ayuda de nuestra comunidad así sera! Solo debes comprar y holdear tus monedas y crecerán en valor conforme nuestra comunidad se vaya haciendo mas grande. Esto quiere decir que si compraste hoy 100 AXI3 TOKEN por 0.5 BNB, dentro de unas semanas o meses, esos 100 AXI3 TOKEN pueden valer 1 BNB o más!! Está atento al grupo de Telegram para estar informado de todo lo que pasa en el proyecto.
+A parte de las becas Axie Infinity, puedes ganar dinero holdeando nuestra moneda. Nuestra moneda está diseñada para ganar valor con el tiempo y ¡con la ayuda de nuestra comunidad así sera! Solo debes asegurarte de holdear tus monedas (no venderlas) y crecerán en valor conforme nuestra comunidad se vaya haciendo mas grande. Esto quiere decir que si compraste hoy 100 AXI3 TOKEN por 0.5 BNB, dentro de unas semanas o meses, esos 100 AXI3 TOKEN pueden valer 1 BNB o más!! Está atento al grupo de Telegram para estar informado de todo lo que pasa en el proyecto.
 
 ¡Esperamos que disfrutes la comunidad y que generes muchos ingresos 💰💰 de manera fácil y divertida jugando Axie Infinity! 
 
