@@ -93,7 +93,7 @@ Para comprar AXIƎ TOKEN ve a PancakeSwap usando [este enlace](https://exchange.
 
 ![image](https://user-images.githubusercontent.com/4061845/128248391-1e975ab2-a7ac-46bd-b0e5-672ed7b782b8.png)
 
-Conecta tu billetera dando click en "Unlock Wallet", escribe la cantidad de BNB que deseas intercambiar por AXIƎ TOKEN (mínimo 0.05 BNB para participar por las becas). Luego da click en "Swap", confirma las transacciones y ¡listo! ya tienes tus AXIƎ TOKEN y estás listo para empezar a participar por las becas Axie Infinity.
+Conecta tu billetera dando click en "Unlock Wallet", escribe la cantidad de BNB que deseas intercambiar por AXIƎ TOKEN (mínimo 0.1 BNB para participar por las becas). Luego da click en "Swap", confirma las transacciones y ¡listo! ya tienes tus AXIƎ TOKEN y estás listo para empezar a participar por las becas Axie Infinity.
 
 
 
@@ -105,7 +105,7 @@ Para ganar dinero debes jugar Axie Infinity con la cuenta que te daremos, hacer 
 
 ### Otra forma de ganar dinero con AXIƎ TOKEN
 
-A parte de las becas Axie Infinity, puedes ganar dinero holdeando nuestra moneda. Nuestra moneda está diseñada para ganar valor con el tiempo y ¡con la ayuda de nuestra comunidad así será! Solo debes asegurarte de holdear tus monedas (no venderlas) y crecerán en valor conforme nuestra comunidad se vaya haciendo mas grande. Esto quiere decir que si compraste hoy 100 AXIƎ TOKEN por 0.5 BNB, dentro de unas semanas o meses, esos 100 AXIƎ TOKEN pueden valer 1 BNB o más!! Está atento al grupo de Telegram para estar informado de todo lo que pasa en el proyecto.
+A parte de las becas Axie Infinity, puedes ganar dinero holdeando nuestra moneda. Nuestra moneda está diseñada para ganar valor con el tiempo y ¡con la ayuda de nuestra comunidad así será! Solo debes asegurarte de holdear tus monedas (no venderlas) y crecerán en valor conforme nuestra comunidad se vaya haciendo mas grande. Esto quiere decir que si compraste hoy 100 AXIƎ TOKEN por 0.1 BNB, dentro de unas semanas o meses, esos 100 AXIƎ TOKEN pueden valer 1 BNB o más!! Está atento al grupo de Telegram para estar informado de todo lo que pasa en el proyecto.
 
 ¡Esperamos que disfrutes la comunidad y que generes muchos ingresos 💰💰 de manera fácil y divertida jugando Axie Infinity! 
 
