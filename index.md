@@ -105,7 +105,7 @@ Para ganar dinero debes jugar Axie Infinity con la cuenta que te daremos, hacer 
 
 ### Otra forma de ganar dinero con AXIƎ TOKEN
 
-A parte de las becas Axie Infinity, puedes ganar dinero holdeando nuestra moneda. Nuestra moneda está diseñada para ganar valor con el tiempo y ¡con la ayuda de nuestra comunidad así sera! Solo debes asegurarte de holdear tus monedas (no venderlas) y crecerán en valor conforme nuestra comunidad se vaya haciendo mas grande. Esto quiere decir que si compraste hoy 100 AXIƎ TOKEN por 0.5 BNB, dentro de unas semanas o meses, esos 100 AXIƎ TOKEN pueden valer 1 BNB o más!! Está atento al grupo de Telegram para estar informado de todo lo que pasa en el proyecto.
+A parte de las becas Axie Infinity, puedes ganar dinero holdeando nuestra moneda. Nuestra moneda está diseñada para ganar valor con el tiempo y ¡con la ayuda de nuestra comunidad así será! Solo debes asegurarte de holdear tus monedas (no venderlas) y crecerán en valor conforme nuestra comunidad se vaya haciendo mas grande. Esto quiere decir que si compraste hoy 100 AXIƎ TOKEN por 0.5 BNB, dentro de unas semanas o meses, esos 100 AXIƎ TOKEN pueden valer 1 BNB o más!! Está atento al grupo de Telegram para estar informado de todo lo que pasa en el proyecto.
 
 ¡Esperamos que disfrutes la comunidad y que generes muchos ingresos 💰💰 de manera fácil y divertida jugando Axie Infinity! 
 
